@@ -15,7 +15,7 @@
 
 # 🌐 Live Demo
 
-🚀 **Application:** https://YOUR_RENDER_LINK.onrender.com
+🚀 **Application:** [https://YOUR_RENDER_LINK.onrender.com](https://roamly-2v8t.onrender.com/listings)
 
 ---
 
@@ -163,20 +163,30 @@ http://localhost:8080
 
 # 📸 Screenshots
 
+## Login
+
+<img width="800" height="500<img width="1600" height="730" alt="WhatsApp Image 2026-10-05 at 21 18 37" src="https://github.com/user-attachments/assets/73ecb962-8954-4ec5-969a-abbe372727c7" />
+
+
+
 ## Home Page
 
-<img width="1600" height="746" alt="PHOTO-2026-10-05-21-08-15" src="https://github.com/user-attachments/assets/14d92732-5dbf-43a1-8a74-935f405c65b1" />
+<img width="800" height="500" alt="PHOTO-2026-10-05-21-08-15" src="https://github.com/user-attachments/assets/14d92732-5dbf-43a1-8a74-935f405c65b1" />
+
 
 
 ## Property Details
-
+<img width="800" height="500" alt="Screenshot 2026-10-05 at 9 17 05 PM" src="https://github.com/user-attachments/assets/41a24603-57a8-4e9f-bcc9-f1506f5d5c39" />
 
 
 ## Create Listing
 
+<img width="800" height="500" alt="PHOTO-2026-10-05-21-14-40" src="https://github.com/user-attachments/assets/41c06459-10ce-4f43-855d-b2d24428012c" />
 
+## Geolocation Map
 
-## Login
+<img width="800" height="500" alt="PHOTO-2026-10-05-21-18-37" src="https://github.com/user-attachments/assets/b8c3d6cc-e3ca-4c85-acf2-ea9794adc292" />
+
 
 
 
