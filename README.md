@@ -15,7 +15,7 @@
 
 # 🌐 Live Demo
 
-🚀 **Application:** [https://YOUR_RENDER_LINK.onrender.com](https://roamly-2v8t.onrender.com/listings)
+🚀 **Application:** https://roamly-2v8t.onrender.com/listings
 
 ---
 
@@ -165,8 +165,7 @@ http://localhost:8080
 
 ## Login
 
-<img width="800" height="500<img width="1600" height="730" alt="WhatsApp Image 2026-10-05 at 21 18 37" src="https://github.com/user-attachments/assets/73ecb962-8954-4ec5-969a-abbe372727c7" />
-
+<img width="800" height="500" alt="WhatsApp Image 2026-10-05 at 21 14 40" src="https://github.com/user-attachments/assets/c0d05215-3f8a-4c08-a901-b967805b9ca0" />
 
 
 ## Home Page
