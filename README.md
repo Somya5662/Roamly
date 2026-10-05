@@ -165,19 +165,20 @@ http://localhost:8080
 
 ## Home Page
 
-(Add Screenshot)
+<img width="1600" height="746" alt="PHOTO-2026-10-05-21-08-15" src="https://github.com/user-attachments/assets/14d92732-5dbf-43a1-8a74-935f405c65b1" />
+
 
 ## Property Details
 
-(Add Screenshot)
+
 
 ## Create Listing
 
-(Add Screenshot)
+
 
 ## Login
 
-(Add Screenshot)
+
 
 ---
 
